@@ -1,0 +1,211 @@
+.bod{
+    /*background-image: url(678317.jpg);*/
+    background-image: url(abc.jpg);
+     background-size:150%; background-attachment: scroll;
+     background-repeat: no-repeat;
+}
+
+
+.div1{
+	background: white;
+	clear: both;
+	height: 100px;
+	padding: 10px;
+	margin: 0px;
+
+
+}
+
+
+.na ul li a{
+	        
+
+}
+.na ul li{
+
+	display: inline-block;
+	padding: 1%;
+	
+}
+.na{
+	float: right;
+	width: 50%;
+	height: 15%;
+	padding: 0px;
+	margin: 0px;
+	background:#BCF7F7;
+	
+
+}
+.as ul li a{
+	text-decoration: none;
+	font-family: 'Gugi', cursive;
+	border-radius: 3px;
+	
+
+}
+.as ul{
+	background-color: #c1ccca;
+	list-style: none;
+	border-radius: 2px;
+	
+	padding: 0px;
+}
+.as ul li{
+
+background-color: #BCF7F7;
+padding: 3px;	
+}
+.as{
+	float: left;border-radius: 5px;
+	background-color:
+	border:3px solid #eee;
+}
+.as ul li.menu{
+	font-size: 150%;
+	font-family: 'Gugi', cursive;
+	background-color:#00f2ff;
+	border-radius: 5px;
+}
+footer{
+	clear: both;
+	background: linear-gradient(to top,black,gray);
+	
+	list-style: none;
+	font-family: helvetica;
+}
+footer ul li a{
+	color: white;
+	text-decoration: none;
+	padding:5px;
+	font-size:60%;
+	font-family: 'Gugi', cursive;
+	
+}
+footer ul{
+list-style:none;
+}
+.para{
+	float:right;
+	
+	padding:30px;
+	margin-left:50px;
+	border:2px solid red;
+
+}
+
+.divv{
+	float: left;
+	margin-left:25px;
+	margin-top:30px;
+	width=400px;
+	height:400px;
+	font-family: 'Gugi', cursive;
+	font-size:150%;
+	background-image:url(abc.jpg);
+	background-size:500%;
+	border-radius:5px;
+	margin-bottom:100px;
+	border:3px solid #eee;
+	padding:10px;
+	
+	
+}
+
+.image{
+	float:right;
+	padding:2px;
+	border:3px solid #eee;
+	background-image:url(abc.jpg);
+	border-radius:8px;
+}
+
+.na ul li a:hover{
+	        
+
+}
+div span.sp{
+     color:white;
+}
+.na ul li:hover{
+
+	display: inline-block;
+	padding: 1%;
+	background:#ff1c1c;
+	border-radius:10px;
+	
+}
+.na:hover{
+	float: right;
+	width: 50%;
+	height: 15%;
+	padding: 0px;
+	margin: 0px;
+	background:#1ef7ff;
+	
+
+}
+.as ul li a:hover{
+	text-decoration: none;
+	font-family: 'Gugi', cursive;
+	border-radius: 3px;
+	color:white;
+	font-weight:bold;
+
+}
+.as ul:hover{
+	background-color: #c1ccca;
+	list-style: none;
+	border-radius: 2px;
+	
+	padding: 0px;
+}
+.as ul li:hover{
+
+background-color: #BCF7F7;
+padding: 3px;
+background:#ff1c1c;
+	border-radius:2px;	
+	margin-top:3px;
+	margin-bottom:2px;
+	
+}
+.as:hover{
+	float: left;border-radius: 5px;
+	background-color:
+	border:3px solid #eee;
+}
+.as ul li.menu:hover{
+	font-size: 150%;
+	
+	background-color:#00f2ff;
+	border-radius: 5px;
+}
+ul li.dec{
+background-color:#02eff7;
+border-radius:5px;
+}
+table th,td{
+width:25%;	
+margin:2%;
+padding:3px;
+border:3px solid black;
+}
+footer ul li a:hover{
+	color: yellow;
+	text-decoration: none;
+	padding:5px;
+	font-size:60%;
+	
+	
+}
+footer::after{
+	color:white;
+	font-size:70%;
+	padding-left:45%;
+	content:" @NISHANT_KUMAR      ";
+text-align:center;
+font-family: 'Gugi', cursive;	}
+	
+}
+
